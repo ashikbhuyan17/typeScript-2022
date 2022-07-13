@@ -1,5 +1,14 @@
 
 # TypeScript Documentation
+TypeScript checks a program for errors before execution, and does so based on the kinds of values, it’s a static type checker.
+TypeScript is JavaScript’s runtime with a compile-time type checker. 
+ 
+Watching mood
+tsc  index.ts  - -watch
+
+How does typescript work?
+Tsc => typescript compiler
+Index.ts -> tsc index.ts  -> index.js 
 
 - prerequisities: Javascript
 
