@@ -1,0 +1,11 @@
+
+TypeScript Types 👍
+Built-in Data types: TypeScript has some pre-defined data-types-
+------------------>>>>>Number,Boolean,String,Void,Null,Undefined,Any
+
+User-defined Types 👍
+------------------>>>>>Enumerations (enums), classes, interfaces, arrays, and tuple
+
+Interface vs type
+- both are nearly similar in most cases.
+- However, Adding new filed after creation is possible for an interface but not possible for a type.

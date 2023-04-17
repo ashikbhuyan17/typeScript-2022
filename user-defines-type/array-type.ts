@@ -1,10 +1,16 @@
 // let users = ["anis", "rabu", "pinky"];
 
+// square beckat array type
 // let users: string[];
 // users = ["anis", "rabu", "pinky"];
 
-let users: Array<string>;
-users = ["anis", "rabu", "pinky"];
+// multiple
+var data: (string | number)[];
+data = ['anis', 100, 'pinky'];
+
+// generic array type
+var users: Array<string>;
+users = ['anis', 'rabu', 'pinky'];
 
 // for (let index = 0; index < users.length; index++) {
 //   const element = users[index];
@@ -18,13 +24,13 @@ users = ["anis", "rabu", "pinky"];
 users.sort();
 console.log(users);
 
-users.push("limon");
+users.push('limon');
 console.log(users);
 
 users.pop();
 console.log(users);
 
-users.unshift("milton");
+users.unshift('milton');
 console.log(users);
 
 users.shift();
