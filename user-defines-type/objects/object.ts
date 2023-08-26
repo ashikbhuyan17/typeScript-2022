@@ -20,3 +20,7 @@ var user2: User = { name: 'jamal', age: 20 };
 users.push(user1);
 users.push(user2);
 console.log('🚀 ~ file: object.ts:8 ~ users:', users);
+
+
+
+
